@@ -1,3 +1,5 @@
+Implementation made by: Cristoval Neo Sasono - 2602158235
+
 ## Next, let's implement the lesson list with jQuery!
   
 ### Instructions
