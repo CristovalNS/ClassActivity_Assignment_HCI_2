@@ -197,6 +197,7 @@ header {
 }
 
 .text-contents {
+  display: none;
   margin: 3% auto;
   width: 80%;
   font-size: 12px;
